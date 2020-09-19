@@ -22,4 +22,4 @@ in comming ...
 - TypeScript
 - Polished
 
-#### Made with :heart: by martins20 and [RocketSeat](https://rocketseat.com.br) and Team :heart:
+#### Made with :heart: by martins20 and [RocketSeat](https://rocketseat.com.br) :heart:
