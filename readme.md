@@ -2,7 +2,6 @@
 
 A beauty service appointments app
 
-
 <img src="./assets/SignIn.gif" alt="SignIn page" align="center" />
 
 ## :question: How to run
@@ -21,5 +20,7 @@ in comming ...
 - Styled-Components
 - TypeScript
 - Polished
+- Unform
+- Yup
 
 #### Made with :heart: by martins20 and [RocketSeat](https://rocketseat.com.br) :heart:
