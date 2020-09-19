@@ -13,7 +13,7 @@ A beauty service appointments app
 
 ## :sunglasses: Features
 
-in comming ...
+- [x] Form Validate
 
 ## :computer: Techs
 
