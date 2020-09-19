@@ -2,7 +2,19 @@
 
 A beauty service appointments app
 
+<b>SignIn Page</b>
+
 <img src="./assets/SignIn.gif" alt="SignIn page" align="center" />
+
+<br>
+<br>
+
+<b>SignUp Page</b>
+
+<img src="./assets/SignUp.gif" alt="SignUp page" align="center" />
+
+<br>
+<br>
 
 ## :question: How to run
 
