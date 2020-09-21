@@ -29,6 +29,7 @@ A beauty service appointments app
 - [x] Animated Toasts
 - [x] Context Api - React
 - [x] Custom Hooks
+- [x] User authentication
 
 ## :computer: Techs
 
@@ -39,5 +40,6 @@ A beauty service appointments app
 - Yup
 - React-Spring
 - Axios
+- React-Router-Dom
 
 #### Made with :heart: by martins20 and [RocketSeat](https://rocketseat.com.br) :heart:
