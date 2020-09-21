@@ -22,7 +22,7 @@ interface SignInFormData {
 const SignIn: React.FC = () => {
   const formRef = useRef<FormHandles>(null);
 
-  const { signIn, user } = useAuth();
+  const { signIn } = useAuth();
 
   const handleSubmit = useCallback(
     async (data: SignInFormData) => {
@@ -45,10 +45,14 @@ const SignIn: React.FC = () => {
           password: data.password,
         });
       } catch (err) {
-        // Using the function to validate all errors and returning respectives name and message on an object for a specific input
-        const errors = getValidationErrors(err);
+        if (err instanceof Yup.ValidationError) {
+          // Using the function to validate all errors and returning respectives name and message on an object for a specific input
+          const errors = getValidationErrors(err);
 
-        formRef.current?.setErrors(errors);
+          formRef.current?.setErrors(errors);
+        }
+
+        // create a toast
       }
     },
     [signIn],
