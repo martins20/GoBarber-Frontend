@@ -51,7 +51,7 @@ const SignIn: React.FC = () => {
           // Using the function to validate all errors and returning respectives name and message on an object for a specific input
           const errors = getValidationErrors(err);
 
-          formRef.current?.setErrors(errors);
+          return formRef.current?.setErrors(errors);
         }
 
         // create a toast
