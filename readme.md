@@ -26,6 +26,7 @@ A beauty service appointments app
 ## :sunglasses: Features
 
 - [x] Form Validate
+- [x] Animated Toasts
 
 ## :computer: Techs
 
