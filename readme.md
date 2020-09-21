@@ -35,5 +35,7 @@ A beauty service appointments app
 - Polished
 - Unform
 - Yup
+- React-Spring
+- Axios
 
 #### Made with :heart: by martins20 and [RocketSeat](https://rocketseat.com.br) :heart:
