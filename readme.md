@@ -27,6 +27,8 @@ A beauty service appointments app
 
 - [x] Form Validate
 - [x] Animated Toasts
+- [x] Context Api - React
+- [x] Custom Hooks
 
 ## :computer: Techs
 
